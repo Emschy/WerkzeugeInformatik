@@ -1,5 +1,5 @@
 public class Main {
-//BBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+//GGGGGGGGGGGGGGGGGGGGGGGBBBBBBBBBBB
     public static void main(String[] args) {
         Factory factory = new Factory();
 
